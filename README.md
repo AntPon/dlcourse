@@ -1,2 +1,2 @@
-# dlcourse
-Homeworks for passing dlcourse.ru
+# dlcourse.ai
+Homeworks and other stuff for passing dlcourse.ai
